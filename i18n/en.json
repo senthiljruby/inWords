@@ -1,0 +1,6 @@
+{
+	"ones": ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"],
+	"tens": ["", "ten", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"],
+	"singularNames": ["one", "one hundred", "one thousand", "one million", "one billion"],
+	"pluralNames": ["", "hundred", "thousand", "million", "billion"]
+}

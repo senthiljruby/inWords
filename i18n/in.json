@@ -1,0 +1,7 @@
+{
+	"ones": ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"],
+	"tens": ["", "ten", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"],
+	"singularNames": ["one", "one hundred", "one thousand", "one lakh", "one crore"],
+	"pluralNames": ["", "hundred", "thousand", "lakh", "crore"],
+	"radials": [0, 2, 3, 5, 7]
+}
