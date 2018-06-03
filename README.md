@@ -11,7 +11,7 @@
 ## Installation
 
 ```
-npm install inwords --save
+npm install @senthiljruby/inwords --save
 ```
 
 ## Documentation
