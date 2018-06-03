@@ -2,9 +2,9 @@
 
 <!-- [![Build Status](https://travis-ci.org/https://github.com/senthiljruby/inWords.png?branch=master)](https://travis-ci.org/https://github.com/senthiljruby/inWords)
 [![Code Climate](https://codeclimate.com/github/https://github.com/senthiljruby/inWords/badges/gpa.svg)](https://codeclimate.com/github/https://github.com/senthiljruby/inWords)
-[![Test Coverage](https://codeclimate.com/github/https://github.com/senthiljruby/inWords/badges/coverage.svg)](https://codeclimate.com/github/https://github.com/senthiljruby/inWords/coverage)
-[![Dependency Status](https://img.shields.io/david/https://github.com/senthiljruby/inWords.svg?style=flat-square)](https://david-dm.org/https://github.com/senthiljruby/inWords)
-[![Download Status](https://img.shields.io/npm/dm/inwords.svg?style=flat-square)](https://www.npmjs.com/package/inwords) -->
+[![Test Coverage](https://codeclimate.com/github/https://github.com/senthiljruby/inWords/badges/coverage.svg)](https://codeclimate.com/github/https://github.com/senthiljruby/inWords/coverage) -->
+<!-- [![Dependency Status](https://img.shields.io/david/https://github.com/senthiljruby/inWords.svg?style=flat-square)](https://david-dm.org/https://github.com/senthiljruby/inWords) -->
+[![Download Status](https://img.shields.io/npm/dm/inwords.svg?style=flat-square)](https://www.npmjs.com/package/@senthiljruby/inwords)
 
 > 
 
