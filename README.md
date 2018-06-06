@@ -30,7 +30,7 @@ Here's an example of a Feathers server that uses `inwords`.
 
 ```js
 const feathers = require('@feathersjs/feathers');
-const inWords = require('inwords');
+const inWords = require('@senthiljruby/inwords');
 
 // Initialize the application
 const app = feathers();
