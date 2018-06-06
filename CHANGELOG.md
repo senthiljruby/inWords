@@ -1,5 +1,11 @@
 # Change Log
 
+## [v3.0.0](https://github.com/senthiljruby/inWords/tree/v3.0.0) (2018-06-06)
+[Full Changelog](https://github.com/senthiljruby/inWords/compare/v2.0.0...v3.0.0)
+
+## [v2.0.0](https://github.com/senthiljruby/inWords/tree/v2.0.0) (2018-06-06)
+[Full Changelog](https://github.com/senthiljruby/inWords/compare/v1.0.0...v2.0.0)
+
 ## [v1.0.0](https://github.com/senthiljruby/inWords/tree/v1.0.0) (2018-06-03)
 
 
