@@ -1,7 +1,7 @@
 {
   "name": "@senthiljruby/inwords",
   "description": "Multi-lingual Feathers Plugin to convert number to word (number system)",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "homepage": "https://github.com/senthiljruby/inWords",
   "main": "lib/",
   "keywords": [
