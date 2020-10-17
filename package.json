@@ -51,7 +51,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "istanbul": "^1.1.0-alpha.1",
-    "mocha": "^5.2.0",
+    "mocha": "^8.2.0",
     "semistandard": "^12.0.1"
   }
 }
